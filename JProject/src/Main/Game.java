@@ -1,5 +1,5 @@
 package Main;
-
+//Can i cook?
 public class Game implements Runnable {
 	private GamePanel gamePanel;
 	private GameFrame gameFrame;
